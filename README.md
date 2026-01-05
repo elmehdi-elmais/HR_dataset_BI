@@ -27,9 +27,10 @@ L’objectif principal est de transformer des données brutes en **tableaux de b
 ## 📊 Dashboard interactif
 
 
-👉 [Voir le dashboard sur Tableau Public](https://public.tableau.com/views/HR_dataset_17675998198440/Dashboard1?%3Adisplay_static_image=y&%3Aembed=true&%3Aembed=y&%3Alanguage=en-US&%3AshowVizHome=n&%3AapiID=host0#navType=1&navSrc=Parse&2
-)
-
+👉 <a href="https://public.tableau.com/views/HR_dataset_17675998198440/Dashboard1?%3Adisplay_static_image=y&%3Aembed=true&%3Aembed=y&%3Alanguage=en-US&%3AshowVizHome=n&%3AapiID=host0#navType=1&navSrc=Parse&2"
+   target="_blank">
+   Voir le dashboard sur Tableau Public
+</a>
 ![Aperçu du dashboard](bi.png)
 
 
