@@ -26,13 +26,13 @@ L’objectif principal est de transformer des données brutes en **tableaux de b
 
 ## 📊 Dashboard interactif
 
-👉 [Accéder au dashboard Tableau Public](https://public.tableau.com/views/HR_dataset_17675998198440/Dashboard1?%3Adisplay_static_image=y&%3Aembed=true&%3Aembed=y&%3Alanguage=en-US&%3AshowVizHome=n&%3AapiID=host0#navType=1&navSrc=Parse&2
 
-<iframe 
-  src="https://public.tableau.com/views/HR_dataset_17675998198440/Dashboard1?%3Adisplay_static_image=y&%3Aembed=true&%3Aembed=y&%3Alanguage=en-US&%3AshowVizHome=n&%3AapiID=host0#navType=1&navSrc=Parse&2&:embed=true"
-  width="100%"
-  height="700">
-</iframe>
+👉 [Voir le dashboard sur Tableau Public](https://public.tableau.com/views/HR_dataset_17675998198440/Dashboard1?%3Adisplay_static_image=y&%3Aembed=true&%3Aembed=y&%3Alanguage=en-US&%3AshowVizHome=n&%3AapiID=host0#navType=1&navSrc=Parse&2
+)
+
+![Aperçu du dashboard](bi.png)
+
+
 
 ## 🚀 Conclusion
 Ce projet m’a permis de renforcer mes compétences en **analyse de données**, **visualisation** et **Business Intelligence**, et de mieux comprendre comment les données peuvent aider à la prise de décision.
